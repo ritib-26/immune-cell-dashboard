@@ -8,7 +8,7 @@ __pycache__/
 .DS_Store
 
 # Database
-*.db
+#*.db
 
 # VS Code
 .vscode/
