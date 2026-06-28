@@ -1,0 +1,6 @@
+population,n_responders,n_non_responders,mean_responders,mean_non_responders,median_responders,median_non_responders,mannwhitney_u,p_value,significant
+cd4_t_cell,993,975,30.538,29.902,30.221,29.658,515277.5,0.0133,True
+b_cell,993,975,9.798,9.996,9.432,9.788,459968.0,0.0557,False
+nk_cell,993,975,14.841,15.073,14.509,14.799,464546.5,0.1211,False
+monocyte,993,975,19.942,20.084,19.61,19.942,466509.0,0.1631,False
+cd8_t_cell,993,975,24.882,24.944,24.728,24.603,478175.5,0.6391,False

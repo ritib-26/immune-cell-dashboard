@@ -10,8 +10,5 @@ __pycache__/
 # Database
 *.db
 
-# Outputs (optional - remove if you want to commit these)
-outputs/
-
 # VS Code
 .vscode/
