@@ -18,8 +18,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/ritib-26/immune-cell-dashboard.git
 cd immune-cell-dashboard
-python -m venv env
-source env/bin/activate  # Windows: env\Scripts\activate
 make setup
 ```
 
